@@ -4,3 +4,5 @@ git commit -am
 DIFF HEAD
 
 CLONE & CHANGED
+
+PRIVATE EMAIL
