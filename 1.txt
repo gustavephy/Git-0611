@@ -2,3 +2,5 @@ TEST
 git commit -am 
 
 DIFF HEAD
+
+CLONE & CHANGED
