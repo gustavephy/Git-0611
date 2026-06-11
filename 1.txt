@@ -1,2 +1,4 @@
 TEST
 git commit -am 
+
+DIFF HEAD
